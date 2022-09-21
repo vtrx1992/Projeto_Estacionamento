@@ -1,0 +1,15 @@
+E:\CURSOS\DIO C#\Projeto_Sitema_de_Estacionamento\ProjetoEstacionamento\bin\Debug\net6.0\ProjetoEstacionamento.exe
+E:\CURSOS\DIO C#\Projeto_Sitema_de_Estacionamento\ProjetoEstacionamento\bin\Debug\net6.0\ProjetoEstacionamento.deps.json
+E:\CURSOS\DIO C#\Projeto_Sitema_de_Estacionamento\ProjetoEstacionamento\bin\Debug\net6.0\ProjetoEstacionamento.runtimeconfig.json
+E:\CURSOS\DIO C#\Projeto_Sitema_de_Estacionamento\ProjetoEstacionamento\bin\Debug\net6.0\ProjetoEstacionamento.dll
+E:\CURSOS\DIO C#\Projeto_Sitema_de_Estacionamento\ProjetoEstacionamento\bin\Debug\net6.0\ProjetoEstacionamento.pdb
+E:\CURSOS\DIO C#\Projeto_Sitema_de_Estacionamento\ProjetoEstacionamento\obj\Debug\net6.0\ProjetoEstacionamento.csproj.AssemblyReference.cache
+E:\CURSOS\DIO C#\Projeto_Sitema_de_Estacionamento\ProjetoEstacionamento\obj\Debug\net6.0\ProjetoEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSOS\DIO C#\Projeto_Sitema_de_Estacionamento\ProjetoEstacionamento\obj\Debug\net6.0\ProjetoEstacionamento.AssemblyInfoInputs.cache
+E:\CURSOS\DIO C#\Projeto_Sitema_de_Estacionamento\ProjetoEstacionamento\obj\Debug\net6.0\ProjetoEstacionamento.AssemblyInfo.cs
+E:\CURSOS\DIO C#\Projeto_Sitema_de_Estacionamento\ProjetoEstacionamento\obj\Debug\net6.0\ProjetoEstacionamento.csproj.CoreCompileInputs.cache
+E:\CURSOS\DIO C#\Projeto_Sitema_de_Estacionamento\ProjetoEstacionamento\obj\Debug\net6.0\ProjetoEstacionamento.dll
+E:\CURSOS\DIO C#\Projeto_Sitema_de_Estacionamento\ProjetoEstacionamento\obj\Debug\net6.0\refint\ProjetoEstacionamento.dll
+E:\CURSOS\DIO C#\Projeto_Sitema_de_Estacionamento\ProjetoEstacionamento\obj\Debug\net6.0\ProjetoEstacionamento.pdb
+E:\CURSOS\DIO C#\Projeto_Sitema_de_Estacionamento\ProjetoEstacionamento\obj\Debug\net6.0\ProjetoEstacionamento.genruntimeconfig.cache
+E:\CURSOS\DIO C#\Projeto_Sitema_de_Estacionamento\ProjetoEstacionamento\obj\Debug\net6.0\ref\ProjetoEstacionamento.dll
